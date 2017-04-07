@@ -11,7 +11,7 @@ Labs are developed to practically learn how to use the R and Python programming 
 The Workshop will provide participants with an applied introduction to data science industry practices and models of machine learning. The workshop has a strong focus on gaining hands-on experience implementing algorithms and building predictive models on real datasets. By the end of the workshop, participants will be ready to implement the machine learning algorithms using data science on their own data, and immediately generate business value.
 
 ## workshop Course outline
-### Module 1: Introduction to the course
+### [Module 1: Introduction to the course](https://github.com/Abdel-Razzak/ADS/tree/Module-1-Introduction-to-the-course)
   * Recap of Data Science Fundamentas
   * Using R for Data Science
 ### Module 2: Manchine learning algorithms and techniques
