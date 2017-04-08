@@ -1,4 +1,4 @@
-# Advanced Data Science Workshop (ADS)
+# Applied Data Science Workshop (ADS)
 A comprehensive 8-day training program for hands-on introduction to big data, data science, and machine learning models, methods and algorithms.
 
 The workshop will take participants through the conceptual and applied foundations of the subject. Topics covered include:
