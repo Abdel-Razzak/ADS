@@ -14,10 +14,14 @@ The Workshop will provide participants with an applied introduction to data scie
 ### [Module 1: Introduction to the course](https://github.com/Abdel-Razzak/ADS/tree/Module-1-Introduction-to-the-course)
   * Recap of Data Science Fundamentas
   * Using R for Data Science
-### Module 2: Manchine learning algorithms and techniques
-  * Introduction to machine learning
-  * Non-linear regression and logistic regression
-  * Supervised learning and Unsupervised learning
+### [Module 2: Manchine learning algorithms and techniques](https://github.com/Abdel-Razzak/ADS/tree/Module-2-Manchine-learning-algorithms-and-techniques/S2)
+  * [Introduction to machine learning](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/INTRO%20TO%20ML.ipynb)
+  * **regression in machine learning** 
+    * [linear regression "lecture"](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/History.ipynb)
+    * [logistic regression "lecture"](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20regression_lecture%20.ipynb)
+  * **Practice**
+    * [linear regression project in R](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/Linear%20Reg.ipynb)
+    * [logistic regression project in R](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20Reg.ipynb)
 ### Module 3 & 5: Supervised learning 
   * Decsion trees and its issues
   * Random forests and boosting
