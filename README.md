@@ -29,6 +29,11 @@ The Workshop will provide participants with an applied introduction to data scie
   * [Naive Bayes](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
   * Workshop Project Proposals: Round 1 
   * [Decsion trees and its issues, Random forests and boosting](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
+
+### [Capstone Project 1](https://github.com/Abdel-Razzak/ADS/tree/Capstone-Project-1)
+*** ANNU Statics Records ***
+In this project we will be learning how do we combine everything we learn about your R and Python programming skills and your data visualization, data engineering (dataframe operations) and apply machine learning methods in order to solve a historical data problem.and in this case we will explore a local data taken from civil engineering department at An-Najah National University (ANNU) [statics record.xlsx](https://github.com/Abdel-Razzak/ADS/blob/Capstone-Project-1/statics%20recods.xlsx)
+
 ### Module 5:  Neural Networks and deep learning
   * Introduction to Neural Network
   * Deep and reinforcement learning 
