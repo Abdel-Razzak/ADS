@@ -22,7 +22,7 @@ The Workshop will provide participants with an applied introduction to data scie
   * **Practice**
     * [linear regression project in R](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/Linear%20Reg.ipynb)
     * [logistic regression project in R](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20Reg.ipynb)
-### Module 3 & 5: Supervised learning 
+### Module 3 & 4: Supervised learning 
   * [K-Nearest Neighbors (K-NN)](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/K%20Nearest%20Neighbors%20with%20Python.ipynb)
   * [Naive Bayes](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
   * [Decsion trees and its issues, Random forests and boosting](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
