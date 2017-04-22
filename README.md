@@ -27,6 +27,7 @@ The Workshop will provide participants with an applied introduction to data scie
 ### Module 3 & 4: Supervised learning 
   * [K-Nearest Neighbors (K-NN)](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/K%20Nearest%20Neighbors%20with%20Python.ipynb)
   * [Naive Bayes](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
+  * Workshop Project Proposals: Round 1 
   * [Decsion trees and its issues, Random forests and boosting](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
 ### Module 5:  Neural Networks and deep learning
   * Introduction to Neural Network
