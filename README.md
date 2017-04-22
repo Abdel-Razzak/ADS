@@ -20,7 +20,7 @@ The Workshop will provide participants with an applied introduction to data scie
     * [linear regression "lecture"](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/History.ipynb)
     * [logistic regression "lecture"](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20regression_lecture%20.ipynb)
   * **Practice**
-    * [linear regression project in R](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/Linear%20Reg.ipynb)
+    * [linear regression project in R](https://github.com/abedkhooli/ds2/blob/master/students.ipynb)
     * [logistic regression project in R](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20Reg.ipynb)
 ### Module 3 & 4: Supervised learning 
   * [K-Nearest Neighbors (K-NN)](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/K%20Nearest%20Neighbors%20with%20Python.ipynb)
