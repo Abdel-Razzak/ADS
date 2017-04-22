@@ -13,7 +13,9 @@ The Workshop will provide participants with an applied introduction to data scie
 ## workshop Course outline
 ### [Module 1: Introduction to the course](https://github.com/Abdel-Razzak/ADS/tree/Module-1-Introduction-to-the-course)
   * Recap of Data Science Fundamentas
+  * Comparing R and Python: read this [Infoworld article](http://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html).
   * Using R for Data Science
+  
 ### [Module 2: Manchine learning algorithms and techniques](https://github.com/Abdel-Razzak/ADS/tree/Module-2-Manchine-learning-algorithms-and-techniques/S2)
   * [Introduction to machine learning](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/INTRO%20TO%20ML.ipynb)
   * **regression in machine learning** 
