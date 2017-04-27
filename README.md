@@ -34,11 +34,15 @@ The Workshop will provide participants with an applied introduction to data scie
 ### [Capstone Project 1](https://github.com/Abdel-Razzak/ADS/tree/Capstone-Project-1)
 In this project we will be learning how do we combine everything we learn about your R and Python programming skills and your data visualization, data engineering (dataframe operations) and apply machine learning methods in order to solve a historical data problem.and in this case we will explore a local data taken from civil engineering department at An-Najah National University (ANNU) [statics record.xlsx](https://github.com/Abdel-Razzak/ADS/blob/Capstone-Project-1/statics%20recods.xlsx)
 
-### Module 5:  Neural Networks and deep learning
+### [Cross Validation](https://github.com/Abdel-Razzak/ADS/tree/cross-validation)
+
+### Module 5:  Special Topics
+  * [Natural language processing (NLP)](https://github.com/Abdel-Razzak/ADS/tree/Module-5--Natural-Language-Processing)
+  
+### Module 6:  Neural Networks and deep learning
   * Introduction to Neural Network
   * Deep and reinforcement learning 
-### Module 6:  Special Topics
-  * Natural language processing (NLP)
+
 ### Module 7: Special Topics
   * Computer Vision (face recognition)
 ### Module 8: Data Science ethics and projects overivew  
