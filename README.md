@@ -39,12 +39,14 @@ In this project we will be learning how do we combine everything we learn about 
 ### Module 5:  Special Topics
   * [Natural language processing (NLP)](https://github.com/Abdel-Razzak/ADS/tree/Module-5--Natural-Language-Processing)
   
-### Module 6:  Neural Networks and deep learning
+### Module 6: Support Victor Machine (SVM) & Principle Component Analysis
+  * [SVM)](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA)
+  * [PCA](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA/Principal-Component-Analysis)
+  
+### Module 7:  Neural Networks and deep learning
   * Introduction to Neural Network
   * Deep and reinforcement learning 
-
-### Module 7: Special Topics
-  * Computer Vision (face recognition)
+  
 ### Module 8: Data Science ethics and projects overivew  
   
    
