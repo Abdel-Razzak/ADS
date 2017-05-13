@@ -47,6 +47,6 @@ In this project we will be learning how do we combine everything we learn about 
   * Introduction to Neural Network
   * Deep and reinforcement learning 
   
-### Module 8: Data Science ethics and projects overivew  
+### Module 8: [Data Science ethics](https://github.com/abedkhooli/ds2/blob/master/DSEthics.md) and projects overivew  
   
    
