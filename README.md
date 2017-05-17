@@ -1,5 +1,5 @@
 # Introduction To Capstone Data Project 1: ANNU Statics Records
-In this project we will be learning how do we combine everything we learn about your R and Python programming skills and your data visualization, data engineering (dataframe operations) and apply machine learning methods in order to solve a historical data problem.and in this case we will explore a local data taken from civil engineering department at An-Najah National University (ANNU) [statics record.xlsx](https://github.com/Abdel-Razzak/ADS/blob/Capstone-Project-1/statics%20recods.xlsx)
+In this project we will be learning how do we combine everything we learn about your R and Python programming skills and your data visualization, data engineering (dataframe operations) and apply machine learning methods in order to solve a historical data problem.and in this case we will explore a local data taken from civil engineering department at An-Najah National University (ANNU) 
 
 By working in this project you will need to be able to do the following:
 * Read excel data statics record 
