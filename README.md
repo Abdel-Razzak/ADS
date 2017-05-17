@@ -71,7 +71,7 @@ The Workshop will provide participants with an applied introduction to data scie
    * [coordinates and faceting](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/master/S1/Notes/Data%20Visualization%20with%20ggplot2/Coordinates%20and%20Faceting%20with%20ggplot2.html)
    * [themes](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/master/S1/Notes/Data%20Visualization%20with%20ggplot2/Themes.html)
 
-* #### Exercises& Solutions
+* #### Exercises & Solutions
   * [R Basics](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Basics.ipynb)
   * [R Matrix](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/RMatrix.ipynb)
   * [R Dataframes](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Dataframes.ipynb)
@@ -81,7 +81,7 @@ The Workshop will provide participants with an applied introduction to data scie
   * [Data Manipulation using R](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Datamanipulation.ipynb)
 
   
-### [Module 2: Manchine learning algorithms and techniques](https://github.com/Abdel-Razzak/ADS/blob/master/S2/INTRO%20TO%20ML.ipynb)
+### Module 2: Manchine learning algorithms and techniques
 
 * #### linear regression
    * [Theory](https://github.com/Abdel-Razzak/ADS/blob/master/S2/History.ipynb)
@@ -120,7 +120,7 @@ In this project we will be learning how do we combine everything we learn about 
 * [spam filter using python: introducing the NLTK package](https://github.com/Abdel-Razzak/ADS/blob/master/S5/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb),[spam dataset](https://github.com/Abdel-Razzak/ADS/tree/master/S5/smsspamcollection)
 * [Project Portfolio Solution:Yelp review dataset](https://github.com/Abdel-Razzak/ADS/blob/master/S5/NLP%20Project%20-%20Solutions.ipynb), [yelp dataset](https://github.com/Abdel-Razzak/ADS/blob/master/S5/yelp.csv)
   
-### [Module 6: Support Victor Machine (SVM) & Principle Component Analysis]
+### Module 6: Support Victor Machine (SVM) & Principle Component Analysis
 * [SVM in theory?](https://github.com/Abdel-Razzak/ADS/blob/master/S6/Support-Vector-Machines/svm.pdf)
 * [practice example on how using SVM in Python](https://github.com/Abdel-Razzak/ADS/blob/master/S6/Support-Vector-Machines/svc.ipynb)
 * [SVM Classifier Project :Breast Cancer dataset](https://github.com/Abdel-Razzak/ADS/blob/master/S6/Support-Vector-Machines/Support%20Vector%20Machines%20with%20Python.ipynb)
