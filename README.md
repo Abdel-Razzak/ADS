@@ -15,38 +15,37 @@ The Workshop will provide participants with an applied introduction to data scie
   * Recap of Data Science Fundamentas
   * Comparing R and Python: read this [Infoworld article](http://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html).
   * Using R for Data Science
-  * [Module 1 Solutions](https://github.com/Abdel-Razzak/ADS/tree/Module-1-Introduction-to-the-course/Solutions)
+  * Module 1 Solutions
   
 ### [Module 2: Manchine learning algorithms and techniques](https://github.com/Abdel-Razzak/ADS/tree/Module-2-Manchine-learning-algorithms-and-techniques/S2)
-  * [Introduction to machine learning](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/INTRO%20TO%20ML.ipynb)
+  * **Introduction to machine learning**
   * **regression in machine learning** 
-    * [linear regression "lecture"](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/History.ipynb)
-    * [logistic regression "lecture"](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20regression_lecture%20.ipynb)
+    * linear regression 
+    * logistic regression 
   * **Practice**
-    * [linear regression project in R](https://github.com/abedkhooli/ds2/blob/master/students.ipynb)
-    * [logistic regression project in R](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20Reg.ipynb)
-### Module 3 & 4: Supervised learning 
-  * [K-Nearest Neighbors (K-NN)](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/K%20Nearest%20Neighbors%20with%20Python.ipynb)
-  * [Naive Bayes](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
-  * Workshop Project Proposals: Round 1 
-  * [Decsion trees and its issues, Random forests and boosting](https://github.com/Abdel-Razzak/ADS/blob/Module-3-%26-4-Supervised-learning/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
+    * linear regression project in R
+    * logistic regression project in R
+### [Module 3 & 4: Supervised learning](https://github.com/Abdel-Razzak/ADS/tree/Module-3-%26-4-Supervised-learning) 
+  * K-Nearest Neighbors (K-NN)
+  * Naive Bayes
+  * Decsion trees and its issues, Random forests and boosting
 
 ### [Capstone Project 1](https://github.com/Abdel-Razzak/ADS/tree/Capstone-Project-1)
-In this project we will be learning how do we combine everything we learn about your R and Python programming skills and your data visualization, data engineering (dataframe operations) and apply machine learning methods in order to solve a historical data problem.and in this case we will explore a local data taken from civil engineering department at An-Najah National University (ANNU) [statics record.xlsx](https://github.com/Abdel-Razzak/ADS/blob/Capstone-Project-1/statics%20recods.xlsx)
+In this project we will be learning how do we combine everything we learn about your R and Python programming skills and your data visualization, data engineering (dataframe operations) and apply machine learning methods in order to solve a historical data problem.and in this case we will explore a local data taken from civil engineering department at An-Najah National University (ANNU)
 
 ### [Cross Validation](https://github.com/Abdel-Razzak/ADS/tree/cross-validation)
 
 ### Module 5:  Special Topics
   * [Natural language processing (NLP)](https://github.com/Abdel-Razzak/ADS/tree/Module-5--Natural-Language-Processing)
   
-### Module 6: Support Victor Machine (SVM) & Principle Component Analysis
-  * [SVM](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA)
-  * [PCA](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA/Principal-Component-Analysis)
+### [Module 6: Support Victor Machine (SVM) & Principle Component Analysis](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA)
+  * Support Vector Machine (SVM)
+  * Principal-Component-Analysis(PCA)
   
 ### [Module 7:  Neural Networks and deep learning](https://github.com/Abdel-Razzak/ADS/tree/Module-7--Deep-Learning)
   * Introduction to Neural Network
   * Deep and reinforcement learning 
   
-### Module 8: [Data Science ethics](https://github.com/abedkhooli/ds2/blob/master/DSEthics.md) and projects overivew  
+### Module 8: [Data Science ethics](https://github.com/abedkhooli/ds2/blob/master/DSEthics.md)  
   
    
