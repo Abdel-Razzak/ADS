@@ -19,7 +19,6 @@ The Workshop will provide participants with an applied introduction to data scie
 * [Quick overview to data science fundemntals workshop](https://github.com/Abdel-Razzak/DSF)
 * [getting started with R](https://github.com/Abdel-Razzak/ADS/blob/master/S1/INDEX%201-Introduction%20to%20R.ipynb)
 
-*** Note: Please use the following link [HTML PREVIEW](http://htmlpreview.github.io/)  if you cant read file in github***
 * #### R Basics
    * [Variables](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/master/S1/Notes/Basics%20of%20R%20and%20Data%20Types/R%20Basics/Variables.html)
    * [Data Types](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/master/S1/Notes/Basics%20of%20R%20and%20Data%20Types/R%20Basics/R%20Data%20Types%20.html)
@@ -72,7 +71,7 @@ The Workshop will provide participants with an applied introduction to data scie
    * [coordinates and faceting](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/master/S1/Notes/Data%20Visualization%20with%20ggplot2/Coordinates%20and%20Faceting%20with%20ggplot2.html)
    * [themes](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/master/S1/Notes/Data%20Visualization%20with%20ggplot2/Themes.html)
 
-### Exercises& Solutions
+* #### Exercises& Solutions
 * [R Basics](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Basics.ipynb)
 * [R Matrix](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/RMatrix.ipynb)
 * [R Dataframes](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Dataframes.ipynb)
@@ -82,26 +81,45 @@ The Workshop will provide participants with an applied introduction to data scie
 * [Data Manipulation using R](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Datamanipulation.ipynb)
 
   
-### [Module 2: Manchine learning algorithms and techniques](https://github.com/Abdel-Razzak/ADS/tree/Module-2-Manchine-learning-algorithms-and-techniques/S2)
-  * **Introduction to machine learning**
-  * **regression in machine learning** 
-    * linear regression 
-    * logistic regression 
-  * **Practice**
-    * linear regression project in R
-    * logistic regression project in R
+### [Module 2: Manchine learning algorithms and techniques](https://github.com/Abdel-Razzak/ADS/blob/master/S2/INTRO%20TO%20ML.ipynb)
+
+* #### linear regression
+   * [Theory](https://github.com/Abdel-Razzak/ADS/blob/master/S2/History.ipynb)
+   * [Math student prediction final grade exam Project (Practice)](https://github.com/Abdel-Razzak/ADS/blob/master/S2/Linear%20Reg.ipynb)
+  
+* #### logistic regression
+   * [Theory](https://github.com/Abdel-Razzak/ADS/blob/master/S2/logistic%20regression_lecture%20.ipynb)
+   * [classify person "deceased or not" using titanic data Project (Practice)](https://github.com/Abdel-Razzak/ADS/blob/master/S2/logistic%20Reg.ipynb)
+
+* #### Assignment: Titanic Data Set
+For this assignment you will be working with the [Titanic Data Set from Kaggle](https://www.kaggle.com/c/titanic). This is a very famous data set and very often is a student's first step in machine learning! 
+
+you will be trying to predict a classification- survival or deceased by using python this time. you need to do some additional cleaning in able to use the kaggle data in your learning model.
+
+after your finish upload your work in the notebook format into your github account
+
 ### [Module 3 & 4: Supervised learning](https://github.com/Abdel-Razzak/ADS/tree/Module-3-%26-4-Supervised-learning) 
-  * K-Nearest Neighbors (K-NN)
-  * Naive Bayes
-  * Decsion trees and its issues, Random forests and boosting
+  * #### Module 3 Supervised learning methods (KNN, Naive Bayes)
+   * Theory behind the two methods and when they are used?
+     * [KNN](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/K%20Nearest%20Neighbors%20with%20Python.ipynb) 
+     * [Naive Bayes](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
+  * [Project assignment Solution: KNN Project Data](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/K-Nearest-Neighbors/K%20Nearest%20Neighbors%20Project%20-%20Solutions.ipynb)
+### Module 4: Supervised learning methods (Decision Trees and Random Forests)
+  * [Theory](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
+  * [Two Project example on Random forests used as a classifier and in regression](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forests.ipynb)
+  * [Project Assignment: lending club solution](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forest%20Project%20-%20Solutions.ipynb) 
 
 ### [Capstone Project 1](https://github.com/Abdel-Razzak/ADS/tree/Capstone-Project-1)
 In this project we will be learning how do we combine everything we learn about your R and Python programming skills and your data visualization, data engineering (dataframe operations) and apply machine learning methods in order to solve a historical data problem.and in this case we will explore a local data taken from civil engineering department at An-Najah National University (ANNU)
+[statics record.xlsx](https://github.com/Abdel-Razzak/ADS/blob/master/statics%20recods.xlsx)
 
-### [Cross Validation](https://github.com/Abdel-Razzak/ADS/tree/cross-validation)
+### [Cross Validation](https://github.com/Abdel-Razzak/ADS/blob/master/cross_validation.ipynb)
 
-### Module 5:  Special Topics
-  * [Natural language processing (NLP)](https://github.com/Abdel-Razzak/ADS/tree/Module-5--Natural-Language-Processing)
+### Module 5- Special Topics: [Natural language processing (NLP)](https://github.com/Abdel-Razzak/ADS/tree/Module-5--Natural-Language-Processing)
+## Session outline
+* [What is NLP?](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/Intro%20to%20Natural%20Language%20Processing.pdf)
+* [spam filter using python: introducing the NLTK package](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb),[spam dataset](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/smsspamcollection/SMSSpamCollection)
+* [Project Portfolio:Yelp review dataset](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/NLP%20Project%20.ipynb), [yelp dataset](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/yelp.csv)
   
 ### [Module 6: Support Victor Machine (SVM) & Principle Component Analysis](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA)
   * Support Vector Machine (SVM)
