@@ -72,13 +72,13 @@ The Workshop will provide participants with an applied introduction to data scie
    * [themes](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/master/S1/Notes/Data%20Visualization%20with%20ggplot2/Themes.html)
 
 * #### Exercises& Solutions
-* [R Basics](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Basics.ipynb)
-* [R Matrix](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/RMatrix.ipynb)
-* [R Dataframes](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Dataframes.ipynb)
-* [R Conditional statments](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20conditional%20statements.ipynb)
-* [R Functions](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Functions.ipynb)
-* [R visualization](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20ggplot2.ipynb)
-* [Data Manipulation using R](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Datamanipulation.ipynb)
+  * [R Basics](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Basics.ipynb)
+  * [R Matrix](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/RMatrix.ipynb)
+  * [R Dataframes](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Dataframes.ipynb)
+  * [R Conditional statments](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20conditional%20statements.ipynb)
+  * [R Functions](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Functions.ipynb)
+  * [R visualization](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20ggplot2.ipynb)
+  * [Data Manipulation using R](https://github.com/Abdel-Razzak/ADS/blob/master/S1/Solutions/R%20Datamanipulation.ipynb)
 
   
 ### [Module 2: Manchine learning algorithms and techniques](https://github.com/Abdel-Razzak/ADS/blob/master/S2/INTRO%20TO%20ML.ipynb)
@@ -98,36 +98,48 @@ you will be trying to predict a classification- survival or deceased by using py
 
 after your finish upload your work in the notebook format into your github account
 
-### [Module 3 & 4: Supervised learning](https://github.com/Abdel-Razzak/ADS/tree/Module-3-%26-4-Supervised-learning) 
+### Module 3 & 4: Supervised learning 
   * #### Module 3 Supervised learning methods (KNN, Naive Bayes)
    * Theory behind the two methods and when they are used?
      * [KNN](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/K%20Nearest%20Neighbors%20with%20Python.ipynb) 
      * [Naive Bayes](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
-  * [Project assignment Solution: KNN Project Data](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/K-Nearest-Neighbors/K%20Nearest%20Neighbors%20Project%20-%20Solutions.ipynb)
-### Module 4: Supervised learning methods (Decision Trees and Random Forests)
-  * [Theory](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
-  * [Two Project example on Random forests used as a classifier and in regression](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forests.ipynb)
-  * [Project Assignment: lending club solution](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forest%20Project%20-%20Solutions.ipynb) 
+   * [Project assignment Solution: KNN Project Data](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/K-Nearest-Neighbors/K%20Nearest%20Neighbors%20Project%20-%20Solutions.ipynb)
+* ### Module 4: Supervised learning methods (Decision Trees and Random Forests)
+   * [Theory](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
+   * [Two Project example on Random forests used as a classifier and in regression](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forests.ipynb)
+   * [Project Assignment: lending club solution](https://github.com/Abdel-Razzak/ADS/blob/master/S3%20%26%20S4/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forest%20Project%20-%20Solutions.ipynb) 
+ * ### [Cross Validation](https://github.com/Abdel-Razzak/ADS/blob/master/cross_validation.ipynb)
 
 ### [Capstone Project 1](https://github.com/Abdel-Razzak/ADS/tree/Capstone-Project-1)
 In this project we will be learning how do we combine everything we learn about your R and Python programming skills and your data visualization, data engineering (dataframe operations) and apply machine learning methods in order to solve a historical data problem.and in this case we will explore a local data taken from civil engineering department at An-Najah National University (ANNU)
 [statics record.xlsx](https://github.com/Abdel-Razzak/ADS/blob/master/statics%20recods.xlsx)
 
-### [Cross Validation](https://github.com/Abdel-Razzak/ADS/blob/master/cross_validation.ipynb)
+### Module 5- Special Topics: Natural language processing (NLP)
 
-### Module 5- Special Topics: [Natural language processing (NLP)](https://github.com/Abdel-Razzak/ADS/tree/Module-5--Natural-Language-Processing)
-## Session outline
-* [What is NLP?](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/Intro%20to%20Natural%20Language%20Processing.pdf)
-* [spam filter using python: introducing the NLTK package](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb),[spam dataset](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/smsspamcollection/SMSSpamCollection)
-* [Project Portfolio:Yelp review dataset](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/NLP%20Project%20.ipynb), [yelp dataset](https://github.com/Abdel-Razzak/ADS/blob/Module-5--Natural-Language-Processing/yelp.csv)
+* [What is NLP?](https://github.com/Abdel-Razzak/ADS/blob/master/S5/Intro%20to%20Natural%20Language%20Processing.pdf)
+* [spam filter using python: introducing the NLTK package](https://github.com/Abdel-Razzak/ADS/blob/master/S5/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb),[spam dataset](https://github.com/Abdel-Razzak/ADS/tree/master/S5/smsspamcollection)
+* [Project Portfolio Solution:Yelp review dataset](https://github.com/Abdel-Razzak/ADS/blob/master/S5/NLP%20Project%20-%20Solutions.ipynb), [yelp dataset](https://github.com/Abdel-Razzak/ADS/blob/master/S5/yelp.csv)
   
-### [Module 6: Support Victor Machine (SVM) & Principle Component Analysis](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA)
-  * Support Vector Machine (SVM)
-  * Principal-Component-Analysis(PCA)
+### [Module 6: Support Victor Machine (SVM) & Principle Component Analysis]
+* [SVM in theory?](https://github.com/Abdel-Razzak/ADS/blob/master/S6/Support-Vector-Machines/svm.pdf)
+* [practice example on how using SVM in Python](https://github.com/Abdel-Razzak/ADS/blob/master/S6/Support-Vector-Machines/svc.ipynb)
+* [SVM Classifier Project :Breast Cancer dataset](https://github.com/Abdel-Razzak/ADS/blob/master/S6/Support-Vector-Machines/Support%20Vector%20Machines%20with%20Python.ipynb)
+* [PCA Classifier Project:Breast Cancer dataset](https://github.com/Abdel-Razzak/ADS/blob/master/S6/Principal-Component-Analysis/Principal%20Component%20Analysis.ipynb)
   
-### [Module 7:  Neural Networks and deep learning](https://github.com/Abdel-Razzak/ADS/tree/Module-7--Deep-Learning)
-  * Introduction to Neural Network
-  * Deep and reinforcement learning 
+### Module 7:  Neural Networks and deep learning
+  #### Deep Learning with Tensorflow and Keras
+  * [Intro to Deep Learning and ANN](https://github.com/Abdel-Razzak/ADS/blob/master/S7/Introduction%20-%20Deep%20Learning%20and%20ANN.ipynb)
+  * [getting started with tensorflow](https://github.com/Abdel-Razzak/ADS/blob/master/S7/Tensorflow%20Basics.ipynb)
+  * [MNIST Project: feedforward neural network in TF](https://github.com/Abdel-Razzak/ADS/blob/master/S7/MNIST%20with%20Multi-Layer%20Perceptron.ipynb)
+  * [getting started with keras](https://github.com/Abdel-Razzak/ADS/blob/master/S7/NNinKeras.pdf)
+  * [Keras hellow world: Iris data](https://github.com/Abdel-Razzak/ADS/blob/master/S7/introkeras.ipynb)
+  * [MNIST Project: using Keras Interface](https://github.com/Abdel-Razzak/ADS/blob/master/S7/CNN%20HandsOn%20-%20MNIST%20%26%20FC%20Nets.ipynb)
+  * Convoluation Neural Network
+    * [Introduction to CNN](https://github.com/Abdel-Razzak/ADS/blob/master/S7/Convolutional%20Neural%20Networks.ipynb)
+    * [MNIST Project using CNN](https://github.com/Abdel-Razzak/ADS/blob/master/S7/CNN%20HandsOn%20-%20MNIST%20%26%20CN%20Nets.ipynb)
+    
+  * ##### [Installing Tensorflow](https://www.tensorflow.org/install/)
+  * After installing Tensorflow type **pip install keras** to install Keras
   
 ### Module 8: [Data Science ethics](https://github.com/abedkhooli/ds2/blob/master/DSEthics.md)  
   
