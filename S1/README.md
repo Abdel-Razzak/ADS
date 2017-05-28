@@ -1,4 +1,4 @@
-### Module 1: Introduction to the course
+###  Introduction to the course
   * Recap of Data Science Fundamentas
   * Comparing R and Python: read this [Infoworld article](http://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html).
 #### Session Outline related to R Basics
